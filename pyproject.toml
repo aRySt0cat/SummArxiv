@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "SummArxiv"
+version = "0.1.0"
+description = ""
+authors = ["aRySt0cat <ryuta.academic@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+pyyaml = "^6.0.1"
+arxiv = "^1.4.8"
+schedule = "^1.2.0"
+slack-sdk = "^3.21.3"
+langchain = "^0.0.279"
+faiss-cpu = "^1.7.4"
+openai = "^0.28.0"
+tiktoken = "^0.4.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
