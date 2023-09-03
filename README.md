@@ -1,6 +1,8 @@
 # SummArxiv
 This is an app that searches for papers on ArXiv using a query, summarizes their abstracts using ChatGPT, and saves them to Notion.
 
+<img width="1802" alt="example" src="https://github.com/aRySt0cat/SummArxiv/assets/55921454/ac774d4e-0af6-4c52-b0b8-80f3755ddc6c">
+
 ## Usage
 ### poetry
 Please execute the following commands in the project's root directory.
