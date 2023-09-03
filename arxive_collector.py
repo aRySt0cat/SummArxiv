@@ -181,4 +181,3 @@ class ArxivCollector:
             return True
         else:
             return False
-            return False
